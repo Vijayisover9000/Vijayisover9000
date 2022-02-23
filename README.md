@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vijayisover9000
+- 👋 Hi, I’m @Vijayitsover9000
 - 👀 I’m interested in Coding, competitive , machine learning and AI 
 - 🌱 I’m currently learning Machine leaning , AI and github,c++,c,python
 - 💞️ I’m looking to collaborate on anything basically to learn
