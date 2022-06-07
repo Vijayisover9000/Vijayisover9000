@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, competitive , machine learning and AI 
 - 🌱 I’m currently learning Machine leaning , AI and github,c++,c,python
 - 💞️ I’m looking to collaborate on anything basically to learn
-- 📫 How to reach me 
+- 📫 How to reach me [visit my site](https://vijayitsover9000.github.io/Vijayitsover9000/)
 
 <!---
 Vijayisover9000/Vijayisover9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
