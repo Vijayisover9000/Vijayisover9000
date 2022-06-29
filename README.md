@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bijay Kumar sah
 - 👀 I’m interested in Coding, competitive , machine learning and AI 
-- 🌱 I’m currently learning Machine leaning , AI and github,c++,c,python
-- 💞️ I’m looking to collaborate on anything basically to learn
+- 🌱 I’m currently learning web development .
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me [visit my site](https://vijayitsover9000.github.io/Vijayitsover9000/)
 
 <!---
