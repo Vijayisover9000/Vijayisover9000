@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me [visit my site](https://vijayitsover9000.github.io/Vijayitsover9000/)
 - My projects
+
   -> 1. [Random color Generator](https://vijayitsover9000.github.io/color-picker/)
+  
   -> 2. [Counter](https://vijayitsover9000.github.io/counter/) 
+  
   -> 3. [Simon Game]()
 
 <!---
