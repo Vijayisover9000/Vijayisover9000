@@ -9,7 +9,7 @@
   
   -> 2. [Counter](https://vijayitsover9000.github.io/counter/) 
   
-  -> 3. [Simon Game]()
+  -> 3. [Simon Game](https://vijayitsover9000.github.io/Simon-game/)
 
 <!---
 Vijayisover9000/Vijayisover9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
