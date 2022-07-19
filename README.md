@@ -15,7 +15,7 @@
   
   -> 5. [Drum Kit](https://vijayitsover9000.github.io/Drumkit/)
   
-  -> 6. [A Dice Throw](https://vijayitsover9000.github.io/dice/)
+  -> 6. [A Dice Throw](https://vijayitsover9000.github.io/dice/index)
 
 <!---
 Vijayisover9000/Vijayisover9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
