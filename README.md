@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web development .
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me [visit my site](https://vijayitsover9000.github.io/Vijayitsover9000/)
+- [My Resume](https://drive.google.com/file/d/1FXkCuVo-bbQuugd5rA-5nCfdfvJQ09lW/view?usp=sharing) 
 - My projects
 
   -> 1. [Random color Generator](https://vijayitsover9000.github.io/color-picker/)
