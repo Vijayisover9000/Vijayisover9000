@@ -19,6 +19,8 @@
   -> 6. [Drum Kit](https://vijayitsover9000.github.io/Drumkit/)
   
   -> 7. [A Dice Throw](https://vijayitsover9000.github.io/dice/index)
+   
+  -> 8. [Course Goal Tracker](https://vijayitsover9000.github.io/course-goal-manager/)
 
 <!---
 Vijayisover9000/Vijayisover9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
