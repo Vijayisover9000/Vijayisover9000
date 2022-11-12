@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development .
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me [visit my site](https://vijayitsover9000.github.io/Vijayitsover9000/)
-- [My Resume](https://drive.google.com/drive/folders/1Ofl-ahwVvxEM-DdSxmyDwwcTL4yMyMq1) 
+- [My Resume](https://drive.google.com/file/d/1iIE95a2rB8AnF7uWOsFSujjelbR9ZxVc/view?usp=share_link) 
 - My projects
 
   -> 1.[Expense Tracker](https://vijayitsover9000.github.io/expense-tracker/)
