@@ -20,7 +20,7 @@
   
   -> 7. [Drum Kit](https://vijayitsover9000.github.io/Drumkit/)
   
-  -> 8. [Tic Tac Toe Game](https://vijayitsover9000.github.io/tictactoe/))
+  -> 8. [Tic Tac Toe Game](https://vijayitsover9000.github.io/tictactoe/)
    
   -> 9. [Course Goal Tracker](https://vijayitsover9000.github.io/course-goal-manager/)
   
