@@ -6,9 +6,9 @@
 - [My Resume](https://drive.google.com/file/d/1iIE95a2rB8AnF7uWOsFSujjelbR9ZxVc/view?usp=share_link) 
 - My projects
 
-  -> 1.[Movie List App](https://vijayitsover9000.github.io/movielogs/)
+  -> 1. [Movie List App](https://vijayitsover9000.github.io/movielogs/)
 
-  -> 2.[Expense Tracker](https://vijayitsover9000.github.io/expense-tracker/)
+  -> 2. [Expense Tracker](https://vijayitsover9000.github.io/expense-tracker/)
   
   -> 3. [Random color Generator](https://vijayitsover9000.github.io/color-picker/)
   
@@ -25,6 +25,8 @@
   -> 9. [Course Goal Tracker](https://vijayitsover9000.github.io/course-goal-manager/)
   
   -> 10. [Name-Age Form](https://vijayitsover9000.github.io/name-age-form/)
+  
+  -> 11. [Typing speed Analyser](https://vijayitsover9000.github.io/Typing-speed-analyser/)
 
 <!---
 Vijayisover9000/Vijayisover9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
