@@ -12,21 +12,19 @@
   
   -> 3. [Random color Generator](https://vijayitsover9000.github.io/color-picker/)
   
-  -> 4. [Counter](https://vijayitsover9000.github.io/counter/) 
+  -> 4. [Simon Game](https://vijayitsover9000.github.io/Simon-game/)
   
-  -> 5. [Simon Game](https://vijayitsover9000.github.io/Simon-game/)
+  -> 5. [Tribute to APJ Abdul Kalam](https://vijayitsover9000.github.io/Tribute/)
   
-  -> 6. [Tribute to APJ Abdul Kalam](https://vijayitsover9000.github.io/Tribute/)
+  -> 6. [Drum Kit](https://vijayitsover9000.github.io/Drumkit/)
   
-  -> 7. [Drum Kit](https://vijayitsover9000.github.io/Drumkit/)
-  
-  -> 8. [Tic Tac Toe Game](https://vijayitsover9000.github.io/tictactoe/)
+  -> 7. [Tic Tac Toe Game](https://vijayitsover9000.github.io/tictactoe/)
    
-  -> 9. [Course Goal Tracker](https://vijayitsover9000.github.io/course-goal-manager/)
+  -> 8. [Course Goal Tracker](https://vijayitsover9000.github.io/course-goal-manager/)
   
-  -> 10. [Name-Age Form](https://vijayitsover9000.github.io/name-age-form/)
+  -> 9. [Name-Age Form](https://vijayitsover9000.github.io/name-age-form/)
   
-  -> 11. [Typing speed Analyser](https://vijayitsover9000.github.io/Typing-speed-analyser/)
+  -> 10. [Typing speed Analyser](https://vijayitsover9000.github.io/Typing-speed-analyser/)
 
 <!---
 Vijayisover9000/Vijayisover9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
