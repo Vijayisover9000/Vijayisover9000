@@ -6,25 +6,25 @@
 - [My Resume](https://drive.google.com/file/d/1iIE95a2rB8AnF7uWOsFSujjelbR9ZxVc/view?usp=share_link) 
 - My projects
 
-  -> 1. [Movie List App](https://vijayitsover9000.github.io/movielogs/)
+  -> [Movie List App](https://vijayitsover9000.github.io/movielogs/)
 
-  -> 2. [Expense Tracker](https://vijayitsover9000.github.io/expense-tracker/)
+  -> [Expense Tracker](https://vijayitsover9000.github.io/expense-tracker/)
   
-  -> 3. [Random color Generator](https://vijayitsover9000.github.io/color-picker/)
+  -> [Random color Generator](https://vijayitsover9000.github.io/color-picker/)
   
-  -> 4. [Simon Game](https://vijayitsover9000.github.io/Simon-game/)
+  -> [Simon Game](https://vijayitsover9000.github.io/Simon-game/)
   
-  -> 5. [Tribute to APJ Abdul Kalam](https://vijayitsover9000.github.io/Tribute/)
+  -> [Tribute to APJ Abdul Kalam](https://vijayitsover9000.github.io/Tribute/)
   
-  -> 6. [Drum Kit](https://vijayitsover9000.github.io/Drumkit/)
+  -> [Drum Kit](https://vijayitsover9000.github.io/Drumkit/)
   
-  -> 7. [Tic Tac Toe Game](https://vijayitsover9000.github.io/tictactoe/)
+  -> [Tic Tac Toe Game](https://vijayitsover9000.github.io/tictactoe/)
    
-  -> 8. [Course Goal Tracker](https://vijayitsover9000.github.io/course-goal-manager/)
+  -> [Course Goal Tracker](https://vijayitsover9000.github.io/course-goal-manager/)
   
-  -> 9. [Name-Age Form](https://vijayitsover9000.github.io/name-age-form/)
+  -> [Name-Age Form](https://vijayitsover9000.github.io/name-age-form/)
   
-  -> 10. [Typing speed Analyser](https://vijayitsover9000.github.io/Typing-speed-analyser/)
+  -> [Typing speed Analyser](https://vijayitsover9000.github.io/Typing-speed-analyser/)
 
 <!---
 Vijayisover9000/Vijayisover9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
