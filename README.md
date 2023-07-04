@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development .
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me [visit my site](https://vijayitsover9000.github.io/Vijayitsover9000/)
-- [My Resume](https://drive.google.com/file/d/1iIE95a2rB8AnF7uWOsFSujjelbR9ZxVc/view?usp=share_link) 
+- [My Resume](https://drive.google.com/file/d/1QPUjXFM72lCmo9X4RlHp5iX2R6OV6qWq/view?usp=sharing)
 - My projects
 
   -> [Ecommerce Website](https://red-handsome-tortoise.cyclic.app/)
